@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhil-singh-koiri
-- 👀 I’m interested in designing, group projects.
+- 👀 I’m interested in designing, group projects, linux and other OS.
 - 🌱 I’m currently learning UX designing, Dart.
 - 📫 How to reach me - mail me at nikhilsingh97064@gmail.com
 - 😄 Pronouns: he/him
